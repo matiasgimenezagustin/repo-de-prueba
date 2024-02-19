@@ -1,0 +1,10 @@
+Crear repositorio
+
+git init
+
+git add .
+
+git commit -m 'comentario'
+
+git branch -M main
+
