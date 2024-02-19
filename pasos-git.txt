@@ -8,3 +8,15 @@ git commit -m 'comentario'
 
 git branch -M main
 
+git remote add origin https://github.com/direccion de su repo 
+
+git push -u origin main
+
+
+Para actualizar:
+
+git add .
+
+git commit -m 'cambio x'
+
+git push
